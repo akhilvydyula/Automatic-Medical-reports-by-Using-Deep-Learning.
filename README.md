@@ -33,9 +33,8 @@ Analysing the data & plot the required graphs to show that these conclusions are
 
 # Model Building
     Model-1: We have used simple encoder and decoder model by using relu activation and tanh activation functiuons with Adam optimizer, got validation loss is very less(0.0014)
-    Model-2:We have used additive attension mechanism; got validation loss score 
+    Model-2:We have used additive attension mechanism with Bidirectional GRU; got validation loss score 
     
-#deploy
-Using flask and Heroku
+
 
     
