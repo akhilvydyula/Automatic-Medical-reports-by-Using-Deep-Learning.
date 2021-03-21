@@ -16,6 +16,7 @@ Files : xml,png.
 
 Dataset statistics :
 Exratcing features from xml file having some tags like Impression,findings,Indication. Based on the tags, We used to collect reports for x-ray images.
+<img src="https://github.com/akhilvydyula/Automatic-Medical-reports-by-Using-Deep-Learning./blob/main/1_ssDAFqny1fJXY15AuoufaA.png">
 we observed that one person may have couple of x-ray image,So by using the histogram, we concluded that we will going to use 2 x-ray per person id.
 If person having only one image we will duplicating same image into image2. 
 Finally created new csv file for modeling (datafinal.csv).
